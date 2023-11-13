@@ -1,0 +1,1 @@
+C:\Users\TAAPAHI2\Downloads\kafka\bin\windows\kafka-server-start.bat C:\Users\TAAPAHI2\Downloads\kafka\config\server_2.properties
